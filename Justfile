@@ -3,3 +3,4 @@ _default:
 
 run:
     cargo run
+    @read
